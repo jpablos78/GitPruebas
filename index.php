@@ -14,6 +14,8 @@ and open the template in the editor.
         echo 'Pruebas de Github';
         
         echo '</br>Mas cambios en local';
+        
+        echo '</br>Mas cambios en pc remota';
         ?>
     </body>
 </html>
