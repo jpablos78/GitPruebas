@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Pruebas de Github';
+        
+        echo '</br>Mas cambios en local';
         ?>
     </body>
 </html>
